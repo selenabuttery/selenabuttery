@@ -1,6 +1,8 @@
 - 👋 Hi, I’m Selena
 - 👀 I’m interested in basketball, tennis, playing the ukelele, and photography!
 - 🌱 I’m currently learning data science while minoring in education.
+- Chaminade University of Honolulu
+Location: Honolulu, HI
 - 📫 How to reach me: via email: selenabuttery2003@gmail.com
 
 <!---
